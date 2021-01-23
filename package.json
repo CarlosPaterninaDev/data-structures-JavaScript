@@ -1,0 +1,25 @@
+{
+  "name": "estructura-datos",
+  "version": "1.0.0",
+  "description": "Estructura de datos con JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carlycode/data-structures-JavaScript.git"
+  },
+  "keywords": [
+    "data",
+    "structures",
+    "javascript",
+    "js"
+  ],
+  "author": "carlycode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carlycode/data-structures-JavaScript/issues"
+  },
+  "homepage": "https://github.com/Carlycode/data-structures-JavaScript#readme"
+}
